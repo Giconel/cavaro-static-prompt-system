@@ -42,11 +42,11 @@ The overlay is a single hook-style text line that reinforces the ad angle. It is
 - One line of text only — do not stack multiple lines of body copy on the image
 
 **Content**
-- If a hook is provided with the angle, use it — but still vary the hook across the 5 options where possible
+- If a hook is provided with the angle, use it — but still vary the hook across the 2 options where possible
 - If no hook is provided, generate one for each option based on the angle and the specific moment in that image
 - Do not use `[INSERT HOOK HERE]` as a placeholder — always write a real hook
 - Keep it short — 4 to 6 words maximum
-- Each of the 5 options should test a different hook angle — the same product and angle can be communicated many ways
+- Each of the 2 options should test a different hook angle — the same product and angle can be communicated many ways
 - The hook must communicate one clear buying reason: comfort, fit, ease, confidence, or getting dressed simply
 - No emojis, no hashtags, no URLs, no price callouts, no exclamation marks
 

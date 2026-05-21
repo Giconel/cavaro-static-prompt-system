@@ -8,9 +8,9 @@ She buys clothes she can actually wear. She values comfort, quality, a flatterin
 
 ---
 
-## Controlled Age Bands For The 5 Options
+## Age Bands
 
-When generating 5 options, distribute across these bands deliberately. Do not use the same band for every option.
+Use these bands deliberately across the 2 options. Default Band B for Option 1. Different band for Option 2.
 
 | Band | Apparent age | Notes |
 |---|---|---|
@@ -18,13 +18,13 @@ When generating 5 options, distribute across these bands deliberately. Do not us
 | B | 43–49 | Core target — the most commercially important segment |
 | C | 50–55 | Upper end — underrepresented in fashion ads, high relatability |
 
-Aim to cover all three bands across the 5 options. Band B should appear at least twice across a full set.
+Aim to cover different bands across the 2 options.
 
 ---
 
-## Body Type Variation For The 5 Options
+## Body Type Variation
 
-Distribute body types across the 5 options. Do not use the same body type for every option.
+Vary body types across the 2 options. Do not use identical builds for both.
 
 - **Average build** — use in at least 2 options; this is the baseline
 - **Petite build** — use in 1 option; shorter frame, proportionally smaller
@@ -46,7 +46,7 @@ Always describe the body type briefly in the prompt. Do not leave it unspecified
 - Natural skin texture — pores, fine lines, and subtle imperfections are correct
 - No plastic skin, no hyper-smoothed AI skin, no excessive retouching effect
 - Warm, healthy complexion appropriate to the Australian lifestyle
-- Ethnicity: rotate across a realistic Australian range across the 5 options — Anglo-Celtic, Southern European, East Asian, or mixed. Do not default to the same background in every option.
+- Ethnicity: use a realistic Australian range — Anglo-Celtic, Southern European, East Asian, or mixed. Different for each option.
 
 **Body**
 - Normal, realistic body proportions

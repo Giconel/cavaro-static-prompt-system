@@ -24,18 +24,15 @@ Two worked examples in compact production format. Use these as reference for str
 
 ---
 
-**Option 1 — The Slow Morning Walk**
+**Option 1 — The Bedroom Mirror**
 
 Overlay hook:
 Cosy without trying too hard.
 
 Ready-to-paste prompt:
 ```
-Realistic UGC-style vertical ad photo, 9:16, 1080x1920. A real Australian woman in her mid-40s (age band B), average build, walks slowly along a quiet leafy residential street in the morning. She is wearing a relaxed-fit ribbed knit cardigan in warm taupe — open front with no buttons or closure, long straight sleeves with ribbed cuffs, hip length, V-neckline, medium-weight knit with clearly visible ribbing across the body and hem. Worn open over a simple white fitted top and straight-leg dark denim. She holds a takeaway coffee cup in her right hand, looking slightly ahead with a natural, relaxed expression. Mid-length naturally wavy hair, slightly loose. Minimal makeup. Warm Australian skin, natural texture with visible pores. The street has established trees with dappled morning light, a low brick fence, and parked cars in soft depth behind her. Slightly warm natural morning daylight. Imperfect candid smartphone framing, three-quarter crop. The cardigan fabric shows natural folds and relaxed weight. Warm, calm, premium but completely real. No plastic skin, no altered garment, no closed front on the cardigan, no editorial model energy, no studio background, no fake logos.
+Realistic UGC-style vertical ad photo, 9:16, 1080x1920. A real Australian woman in her mid-40s (age band B), average build, checks her reflection in a full-length bedroom mirror before heading out. Exact product from photo: relaxed-fit ribbed knit cardigan in warm taupe — open front with no buttons, long straight sleeves with ribbed cuffs, hip length, V-neckline, medium-weight knit with clearly visible ribbing across body, sleeves, and hem. Do not alter colour, fabric, open front, or ribbed texture. Worn open over a simple white fitted top and straight-leg dark jeans. Slight turn toward mirror, soft natural expression. Mid-length naturally wavy hair. Minimal makeup. Warm Anglo-Celtic skin, natural texture with visible pores. Background: real bedroom — bed, timber furniture, soft morning window light from one side. Slightly imperfect smartphone framing, three-quarter crop. Cardigan shows natural folds and ribbed weight. Authentic smartphone-photo feel, captured moment not staged shoot. No plastic skin, no altered garment, no closed front on cardigan, no editorial model energy, no commercial lighting, no studio background, no fake logos.
 ```
-
-Why this option:
-The coffee-and-walk moment is universally readable as a real morning. The cardigan's open front and ribbed drape will be clearly visible in the relaxed stride.
 
 ---
 
@@ -49,8 +46,6 @@ Ready-to-paste prompt:
 Realistic UGC-style vertical ad photo, 9:16, 1080x1920. A real Australian woman in her late 30s (age band A), petite build, pauses at a weekend farmers market in the mid-morning. She is wearing a relaxed-fit ribbed knit cardigan in warm taupe — open front with no buttons, long straight sleeves with ribbed cuffs, hip length, V-neckline, medium-weight knit with clearly visible ribbing across the body, sleeves, and hem. Worn open over a soft white crew-neck tee and straight-leg jeans. She holds a small bunch of fresh flowers in one hand, her body turned slightly, looking at something off camera with a relaxed curious expression. Shoulder-length dark hair loosely pulled back. Southern European skin tone, natural texture. Minimal makeup. Petite frame. Background shows canvas market stalls, bunches of produce, and a soft natural crowd in warm morning light, all in gentle blur. Soft warm outdoor morning light. Imperfect candid smartphone framing at natural eye level. Cardigan shows realistic drape and visible ribbing. Warm, real, unhurried. No plastic skin, no altered garment, no editorial pose, no Gen Z styling, no studio background, no fake logos or watermarks.
 ```
 
-Why this option:
-The flower prop and candid market setting feel genuinely Saturday-morning. The petite build and slightly younger age test a meaningfully different model profile and setting type.
 
 ---
 
@@ -81,18 +76,15 @@ Option 1 — The Slow Morning Walk. The coffee-cup walk is the most immediately 
 
 ---
 
-**Option 1 — The Village Stride**
+**Option 1 — The Kitchen Morning**
 
 Overlay hook:
-The blouse that goes everywhere.
+Dressed in five minutes. Done.
 
 Ready-to-paste prompt:
 ```
-Realistic UGC-style vertical ad photo, 9:16, 1080x1920. A real Australian woman in her early 40s (age band B), average build, walks briskly through a local boutique shopping village on a weekday morning. She is wearing a fitted linen blouse in soft dusty pink — relaxed collar, short flutter sleeves, five small pearl-effect buttons down the front button placket, hip length, slightly tapered at the waist, with visible natural linen texture and subtle crinkle. She wears it loosely tucked into straight-leg camel trousers. She carries a leather tote bag on one shoulder and glances at her phone in her other hand. Calm focused expression, mid-movement. Mid-length hair slightly moving. Minimal makeup. Warm Anglo-Celtic skin with natural texture. Average build, normal proportions. Background shows warm-toned shopfronts, terracotta pot plants on the footpath, and soft blurred foot traffic in morning light. Warm natural morning daylight. Slightly imperfect candid smartphone framing, three-quarter crop. Linen fabric shows natural drape and flutter at the sleeve. Premium but real and everyday. No plastic skin, no altered garment, no missing or changed buttons, no flattened flutter sleeves, no editorial model energy, no studio background, no fake logos.
+Realistic UGC-style vertical ad photo, 9:16, 1080x1920. A real Australian woman in her early 40s (age band B), average build, stands at her kitchen bench holding a white ceramic coffee mug on a weekday morning. Exact product from photo: fitted linen blouse in soft dusty pink — relaxed collar, short flutter sleeves, five small pearl-effect buttons down the front placket, hip length, slightly tapered at the waist, with visible natural linen crinkle texture. Do not alter colour, button count, flutter sleeve shape, or linen texture. Worn with dark straight-leg jeans. Slight lean against the bench, relaxed natural expression, looking slightly off camera. Shoulder-length wavy hair. Warm Anglo-Celtic skin, natural texture, minimal makeup, average build. Background: real kitchen — timber cabinetry, natural morning light from a side window, lived-in domestic setting in soft focus. Candid friend-shot quality, slightly imperfect framing, three-quarter body. Linen shows natural drape and flutter sleeve. No plastic skin, no altered garment, no missing buttons, no smooth fabric instead of linen, no editorial pose, no studio background, no fake logos.
 ```
-
-Why this option:
-The phone-in-hand walking pose immediately reads as a real busy morning. The flutter sleeves will show natural movement in the stride, communicating the fabric quality.
 
 ---
 
@@ -106,8 +98,6 @@ Ready-to-paste prompt:
 Realistic UGC-style vertical ad photo, 9:16, 1080x1920. A real Australian woman in her mid-40s (age band B), average build, stands at a café counter collecting her morning coffee on a weekday. She is wearing a fitted linen blouse in soft dusty pink — relaxed collar, short flutter sleeves, five small pearl-effect buttons down the front button placket, hip length, slightly tapered at the waist, with visible natural linen crinkle texture. She wears it with dark straight-leg jeans. One hand reaches forward to collect a white ceramic cup from the counter, slight natural lean forward, looking at the cup with a small relaxed smile. Short to shoulder-length wavy hair. Olive-Mediterranean skin with natural texture. Natural makeup, average build. Background shows a warm café interior — timber counter, coffee equipment, soft warm light — all in gentle blur. Warm morning light, slightly directional. Candid smartphone framing with slight upward angle, three-quarter body. Linen shows realistic drape and flutter in the sleeve. Warm, real, effortless. No plastic skin, no altered garment, no generic buttons, no smooth fabric instead of linen, no editorial pose, no studio background, no fake logos or watermarks.
 ```
 
-Why this option:
-The reaching pose naturally shows the flutter sleeve moving. The warm café interior tests a meaningfully different setting — indoor vs outdoor — and a slightly different model profile.
 
 ---
 

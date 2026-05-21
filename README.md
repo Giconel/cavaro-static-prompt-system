@@ -64,11 +64,23 @@ Do not mix the two. The image prompt system comes first. The adcopy system comes
 
 For daily prompt generation, use `production-mode.md` — not the full system files.
 
-`production-mode.md` is a compact standalone file that contains all the rules needed to generate 2 ready-to-paste static prompts in one session. It is designed to run fast in Claude Code Web without loading the full repository.
+`production-mode.md` is the compact daily runtime file. It is self-contained and optimised for speed. The goal is to move daily generation time as close to 30 seconds–1 minute as Claude Code Web and image analysis latency allow.
+
+**Daily output is always:**
+1. Short Product Read
+2. 2 Ready-to-Paste Static Prompts
+3. Recommended First Test (one sentence)
+
+Each prompt option contains only: option name, optional overlay hook, ready-to-paste prompt. No "Why this option" sections. No long strategy. No separate negative prompts.
 
 **Daily use prompt for Claude Code Web:**
 
-> Use production-mode.md as the Cavaro Static Prompt System. Product photo: uploaded. Static angle: [INSERT ANGLE HERE]. Output only: Short Product Read, Two Ready-to-Paste Static Prompts, Recommended First Test.
+> Use production-mode.md as the Cavaro Static Prompt System. Product photo: uploaded. Static angle: [INSERT ANGLE HERE]. Output only: Short Product Read, 2 Ready-to-Paste Static Prompts, Recommended First Test.
+
+**When to use the full system files:**
+Use the individual rule files only when improving, debugging, or expanding the system — not for daily production runs.
+
+If a rule is updated in the full system files, add the most important version to `production-mode.md` to keep it current.
 
 **When to use the full system files:**
 Use the individual rule files (`brand-visual-rules.md`, `target-customer-rules.md`, etc.) only when improving, debugging, or expanding the system — not for daily production runs.
@@ -132,4 +144,4 @@ Every prompt is built to produce a testable Meta ad static — not a beautiful A
 
 ## Version
 
-v7 — Strong home and intimate setting bias added. Priority 1 / Priority 2 / Low Priority route order established across all system files. Outdoor walking shots are no longer a default. Mirror-selfie and phone-captured realism strengthened.
+v8 — Production mode rewritten for speed. Output reduced to 2 compact prompts with no "Why this option," no long strategy, no separate negative blocks. Example prompts updated to Priority 1 home settings. All "5 options" references removed. Daily target: 30 seconds–1 minute.

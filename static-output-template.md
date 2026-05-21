@@ -26,11 +26,8 @@ Overlay hook (optional):
 
 Ready-to-paste prompt:
 ```
-[Full standalone image generation prompt. Include: product description in full, model (age, build, hair, skin), setting, pose and body language, lighting, camera style, 9:16 vertical 1080×1920, visual tone. Include a positive realism anchor — e.g. "authentic smartphone-photo feel", "candid friend-shot quality", "captured moment not staged shoot". End with embedded negative instructions — no plastic skin, no altered garment, no editorial model energy, no commercial fashion-shoot lighting, no cinematic shallow depth of field, no overly symmetrical composition, no studio background, no fake logos.]
+[Concise standalone prompt. Include: exact product (concise), model (age band, build, ethnicity, hair), setting, pose, lighting, 9:16 vertical 1080×1920, positive realism anchor ("authentic smartphone-photo feel" / "candid friend-shot quality" / "captured moment not staged shoot"), embedded negative instructions.]
 ```
-
-Why this option:
-[1–2 sentences. Why is this the strongest route for this product and angle?]
 
 ---
 
@@ -42,17 +39,14 @@ Overlay hook (optional):
 
 Ready-to-paste prompt:
 ```
-[Full standalone prompt with embedded negatives and positive realism anchor]
+[Concise standalone prompt with embedded negatives and positive realism anchor.]
 ```
-
-Why this option:
-[1–2 sentences. Why is this a strong alternative — what does it test differently?]
 
 ---
 
 ### 3. Recommended First Test
 
-Option [1 or 2] — [Concept Name]. [2–3 sentences on why this is the strongest first test for this product and angle.]
+Option [1 or 2] — [one sentence].
 
 ---
 

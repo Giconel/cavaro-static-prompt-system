@@ -37,7 +37,7 @@ These carry high risk of producing polished catalogue or commercial lifestyle im
 
 Use these settings as your primary options. Match the setting to the angle and product type.
 
-For each set of 5 options, aim to include at least 1–2 options from the **Indoor and Domestic** group and 2–3 from the **Outdoor and Everyday** group. Do not default to all outdoor settings for every output.
+Detailed descriptions of each setting type. Use Priority Order above to select settings — at least one option must come from Priority 1 (indoor/domestic) for each 2-option set.
 
 ### Indoor and Domestic Settings
 

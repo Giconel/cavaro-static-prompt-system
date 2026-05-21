@@ -1,0 +1,14 @@
+warning: in the working copy of 'README.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'example-static-outputs.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'overlay-and-safe-zone-rules.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'production-mode.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'scene-and-setting-rules.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'static-output-template.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'target-customer-rules.md', LF will be replaced by CRLF the next time Git touches it
+README.md
+example-static-outputs.md
+overlay-and-safe-zone-rules.md
+production-mode.md
+scene-and-setting-rules.md
+static-output-template.md
+target-customer-rules.md
