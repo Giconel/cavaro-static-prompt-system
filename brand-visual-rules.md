@@ -34,6 +34,7 @@ Cavaro should feel calm, feminine, trustworthy, and polished — like a premium 
 - The image should feel captured, not staged
 - Friend-shot or self-shot feel — like someone who knows her took the photo, not a brand photographer
 - Smartphone-photo realism is welcome and preferred
+- Mirror-selfie realism is welcome — a self-shot mirror image signals intimacy and authenticity, not low quality
 - Slightly imperfect framing is good — not every element needs to be centred or perfectly composed
 - Natural subject placement — she does not need to be dead-centre in the frame
 - Natural depth of field — soft background, clear subject — but not cinematic or hyper-stylised
@@ -45,7 +46,7 @@ Cavaro should feel calm, feminine, trustworthy, and polished — like a premium 
 
 ## Preferred Visual Direction
 
-The system should now lean toward a more authentic, intimate, candid feel — closer to mature-woman iPhone-style fashion content than a polished lifestyle catalogue.
+The system should now lean strongly toward intimate, home-based, phone-captured concepts. The default starting point is home — a mirror, a window, a kitchen, a doorway — not an outdoor walk. Only move to outdoor settings when they are genuinely the strongest option for the selected angle.
 
 **Preferred qualities:**
 - Realistic mature woman, around 40–55, looking like herself
@@ -60,6 +61,7 @@ The system should now lean toward a more authentic, intimate, candid feel — cl
 **Anti-stock rules:**
 The following qualities make an image feel like stock photography or a lifestyle catalogue. Avoid them actively:
 - Generic catalogue lifestyle poses — walking on a perfect street, smiling at nothing, holding coffee at arm's length
+- Full-body outdoor walking shots used as a default — striding lifestyle scenes, "walking to brunch" energy, model walking toward camera on a pavement or footpath
 - Overly polished commercial fashion energy
 - Overly perfect editorial posture or choreographed movement
 - Overly clean, art-directed backgrounds that look designed rather than lived-in

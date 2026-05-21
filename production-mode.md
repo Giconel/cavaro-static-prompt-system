@@ -74,6 +74,8 @@ More authentic, more candid, more believable — less catalogue, less polished, 
 
 The preferred direction is mature-woman iPhone-style fashion content. The image should feel like a natural phone photo taken by herself or a friend — not a studio shoot, not a lookbook, not a lifestyle catalogue.
 
+The default starting point is home. Consider home mirror selfies, kitchen coffee moments, window-light home candids, and entryway shots before outdoor options. Outdoor walking shots are not a default — they must be clearly the strongest route for the angle to be used.
+
 - Realistic smartphone perspective, natural and slightly imperfect
 - Natural and flattering but imperfect light — window light, soft morning light, open outdoor shade
 - Believable everyday environment — home, local street, doorstep, quiet café
@@ -85,29 +87,39 @@ The preferred direction is mature-woman iPhone-style fashion content. The image 
 
 **Actively avoid:**
 - Generic catalogue lifestyle poses
+- Full-body outdoor walking shots used as a default route
+- Model striding down a pavement with fashion-walk energy — "walking to brunch" imagery
+- Polished outdoor commercial lifestyle framing
 - Overly polished commercial fashion energy
 - Overly clean or art-directed backgrounds
 - "Pinterest pretty" images with no ad intent
 - Images that feel more like a lookbook than a performance static
 
 ### 5. Setting
-Use believable Australian everyday settings — indoor and outdoor. Prioritise intimate, real environments over polished outdoor scenes. Across the 5 options, include at least 1–2 indoor/domestic settings.
+Use believable Australian everyday settings. Default strongly toward home and intimate settings before considering outdoor options.
 
-**Indoor and domestic settings (high-priority for authenticity):**
-- Home mirror selfie — bedroom or hallway, natural window light from side
-- Relaxed home interior near a window — lived-in, not staged
+**Priority 1 — Home and intimate settings (default first consideration)**
+Start here. These produce the most believable, phone-captured, performance-static energy.
+- Home mirror selfie — bedroom, hallway, or entryway mirror, natural window light from side
+- Window-side home candid — standing or seated near natural light in a real, lived-in home
+- Kitchen or home coffee moment — domestic, morning window light
+- Seated home candid — relaxed, mid-moment in a real home setting
 - Front doorway or porch — about to head out, natural outdoor light in front
-- Coffee at home — kitchen or dining area, morning window light
 
-**Outdoor and everyday settings:**
+**Priority 2 — Quiet everyday settings**
+Use when genuinely stronger than a home option for the selected angle.
+- Quiet seated café moment — intimate table, soft interior or window light
+- Residential street with established gardens — still or near-still, not a walk
 - Inner-city café strip
-- Suburban high street
+
+**Low priority / not a default**
+High risk of producing polished catalogue imagery. Only use when clearly the strongest option.
+- Full-body outdoor walking shots
+- Striding lifestyle scenes — "walking to brunch," high-street fashion-walk energy
 - Weekend farmers market
 - Beachside esplanade
-- Residential street with established gardens
 - Local shopping village
 - Calm city laneway
-- Quiet café seated moment
 
 Background must feel real and lived-in. For indoor settings: real home, natural light from windows, lived-in objects in background — not staged or showroom. For outdoor settings: natural depth, real pavement, Australian architecture, native greenery, parked cars, shopfronts, subtle passers-by.
 
@@ -187,13 +199,25 @@ Think critically before deciding. Do not default to the first two ideas. Select 
 
 The 2 options must be meaningfully different creative routes, not minor variations of the same idea.
 
-**Consider these as strong route options:**
-- Home mirror selfie — bedroom or hallway, checking her look
-- Coffee at home — kitchen or dining, relaxed morning moment
-- Front doorway — about to head out, natural transition moment
+**Route selection — consider in this order:**
+
+Priority 1 (default first consideration for most angles):
+- Home mirror selfie — bedroom, hallway, or entryway, checking her look
+- Kitchen or home coffee moment — relaxed domestic morning
+- Window-light home candid — seated or standing near natural light at home
+- Front doorway or entryway — about to head out, natural transition
+
+Priority 2 (use when genuinely stronger for this angle):
 - Quiet café seated — intimate, unhurried
-- Relaxed outdoor walk or errand moment
-- A moment that feels self-shot or friend-shot
+- Still porch or veranda moment
+- Close, believable local errand — still framing, not a fashion walk
+
+Low priority / not a default:
+- Full-body outdoor walking shots
+- Striding or fashion-walk lifestyle scenes
+- Polished outdoor commercial lifestyle imagery
+
+At least one of the 2 options should come from Priority 1. A second outdoor option requires a clear reason why it outperforms a home concept for this specific angle.
 
 Keep the same across both options:
 - Product — same garment, same colour, same details (exact fidelity)
@@ -286,8 +310,9 @@ Do not keep the original PDP model styling if it does not fit the target custome
 Generate only 2 options. Select the 2 strongest, most usable creative routes for this specific product and angle.
 Option 1 = strongest likely winner. Option 2 = strongest alternative route, meaningfully different.
 The 2 options should test the same buying reason through different realistic customer moments.
-Consider indoor or domestic options (home mirror, coffee at home, doorway) as strong routes.
-Prefer authentic, candid, real-life moments over polished catalogue or lifestyle imagery.
+Default to home and intimate options first — mirror selfie, kitchen coffee moment, window-light home candid, doorway or entryway.
+Only use an outdoor option if it is genuinely the strongest route for this angle. Outdoor walking shots are not a default.
+Prefer authentic, phone-captured, real-life moments. Mirror-selfie and friend-shot energy is welcome.
 Overlay is optional — omit it when the concept is stronger without text.
 Keep the output practical and compact.
 Do not include long strategy sections, long checklists, or separate long negative prompts.

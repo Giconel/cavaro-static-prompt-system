@@ -81,7 +81,9 @@ Always describe the body type briefly in the prompt. Do not leave it unspecified
 - Subtle, everyday body language — the kind that happens when no one is watching
 - Avoid: hands-on-hips fashion poses, over-choreographed movement, model posture, catalogue body language
 - Avoid: perfect upright posture held for a camera — she can have a slight natural lean or turn
-- A self-shot or mirror-shot angle is welcome when it improves authenticity and believability
+- A self-shot or mirror-shot angle is welcome and preferred for home concepts — it signals a real, casual moment, not a produced shoot
+- Mirror selfie energy — looking at her own reflection, adjusting her outfit, checking herself before leaving — is a high-priority pose for home and indoor options
+- Phone-captured casualness is the target feel — the image should feel like something she or a friend would actually take
 
 ---
 

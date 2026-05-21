@@ -65,14 +65,25 @@ Think critically before deciding. Do not default to the first two ideas. Select 
 - Pose and emotional moment
 - Composition or framing
 
-Strong routes to consider:
-- Home mirror selfie (bedroom or hallway, natural window light)
-- Coffee at home (kitchen, morning light)
-- Front doorway (about to head out)
-- Quiet café seated (intimate, unhurried)
-- Relaxed outdoor walk or errand moment
+Route selection — consider in this order:
 
-Do not default to all outdoor settings. Do not produce two versions of the same concept. The 2 options must be genuinely different visual routes.
+**Priority 1 (default first consideration for most angles):**
+- Home mirror selfie — bedroom, hallway, or entryway mirror, natural window light
+- Kitchen or home coffee moment — domestic, morning window light
+- Window-light home candid — seated or standing near natural light at home
+- Front doorway or entryway — about to head out, natural transition
+
+**Priority 2 (use when genuinely stronger for this angle):**
+- Quiet café seated — intimate, unhurried
+- Still porch or veranda moment
+- Close, believable local errand — still or near-still framing, not a fashion walk
+
+**Low priority / not a default:**
+- Full-body outdoor walking shots
+- Striding or fashion-walk lifestyle scenes
+- Generic suburban or high-street walk
+
+At least one of the 2 options should come from Priority 1. Do not default to outdoor settings. Do not produce two versions of the same concept. The 2 options must be genuinely different visual routes.
 
 ### Step 5 — Build 2 Complete Prompts
 For each of the 2 selected routes, write a full image generation prompt using:

@@ -6,6 +6,33 @@ The setting must feel real. It must be a place an Australian woman aged 35–55 
 
 ---
 
+## Setting Priority Order
+
+For most products and most angles, consider settings in this order. Start with Priority 1 before moving to outdoor or away-from-home options.
+
+**Priority 1 — Home and intimate settings (default first consideration)**
+These produce the most authentic, phone-captured, performance-static energy for most angles. Default here first.
+- Home mirror selfie — bedroom, hallway, or entryway mirror, natural window light from side
+- Window-side home candid — standing or seated near natural light in a real, lived-in home
+- Kitchen or home coffee moment — domestic, morning window light, real background
+- Seated home candid — relaxed, mid-moment in a real home setting
+- Front doorway or entryway — about to leave, natural outdoor light from in front
+
+**Priority 2 — Quiet everyday settings**
+Consider these when they are genuinely stronger than a home setting for the selected angle.
+- Quiet seated café moment — intimate table, soft interior or window light
+- Porch or veranda moment — transitional, soft outdoor light
+- Close, intimate local errand — still or near-still framing, not a fashion walk
+
+**Low priority / not a default**
+These carry high risk of producing polished catalogue or commercial lifestyle imagery. Only use when clearly the strongest option for the angle.
+- Full-body outdoor walking shots — model on a pavement or footpath
+- Striding lifestyle scenes — "walking to brunch," high-street fashion-walk energy
+- Polished outdoor commercial lifestyle framing
+- Any outdoor scene that reads as a commercial fashion brand shoot rather than a real captured moment
+
+---
+
 ## Approved Settings
 
 Use these settings as your primary options. Match the setting to the angle and product type.
@@ -143,3 +170,6 @@ The background is not decoration. It is part of the believability of the image. 
 - Staged home interiors that look like a showroom or Airbnb shoot
 - Generic café seating that looks like stock photography
 - Any setting that reads as "lifestyle catalogue" rather than real life
+- Full-body outdoor walking shots used as a default scene choice
+- Pavement or footpath scenes with commercial fashion-walk energy
+- Outdoor scenes that feel like a brand shoot rather than a captured moment

@@ -132,4 +132,4 @@ Every prompt is built to produce a testable Meta ad static — not a beautiful A
 
 ## Version
 
-v6 — Output reduced from 5 options to 2. Option 1 = strongest likely winner. Option 2 = strongest alternative route, meaningfully different. Quality over quantity.
+v7 — Strong home and intimate setting bias added. Priority 1 / Priority 2 / Low Priority route order established across all system files. Outdoor walking shots are no longer a default. Mirror-selfie and phone-captured realism strengthened.
