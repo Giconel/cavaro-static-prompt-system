@@ -76,23 +76,27 @@ For each of the 5 creative routes, write a full image generation prompt using:
 - Overlay and safe zone rules from overlay-and-safe-zone-rules.md
 - Realism rules
 
+Embed the most important negative instructions at the end of each prompt as natural language — do not write a separate negative prompt block. Include at minimum: no plastic skin, no altered garment, no editorial model energy, no Gen Z styling, no studio background, no fake logos or watermarks, no cheap graphics.
+
 Each prompt must stand alone. A person should be able to copy any single prompt and paste it directly into an image generator without needing any other context.
 
-### Step 6 — Negative Prompt
-Add the standard negative prompt from negative-prompt-rules.md to every option. Add any product-specific additions where relevant.
+### Step 6 — Output
+Deliver the output using the compact structure in static-output-template.md.
 
-### Step 7 — Output
-Deliver the full output using the structure in static-output-template.md.
+Output should be compact: short product read, 5 ready-to-paste prompts, short recommendation.
 
 ---
 
 ## Output Format
 
-Every output must follow the exact structure in static-output-template.md.
+Output should be compact: short product read, 5 ready-to-paste prompts, short recommendation.
 
-Each of the 5 ready-to-paste prompts must be copyable directly into Nano Banana, ChatGPT Images, Higgsfield, or any comparable image generation tool.
+Every output follows the structure in static-output-template.md:
+1. Short product read — category, key details to protect, selected angle
+2. Five ready-to-paste prompts — each with an overlay hook, the full prompt, and 1–2 sentence rationale
+3. Recommended first test — one choice with a brief reason
 
-The output ends with a recommended first test — identifying which of the 5 options to generate first and why.
+Each prompt is copyable directly into Nano Banana, ChatGPT Images, Higgsfield, or any comparable image generator. Negative instructions are embedded inside each prompt — there is no separate negative prompt block.
 
 ---
 

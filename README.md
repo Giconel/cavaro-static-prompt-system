@@ -22,7 +22,7 @@ Its only job is to produce a high-quality image prompt that can be dropped into 
 
 **Input 2:** A static angle (the single buying reason the ad is built around)
 
-**Output:** 5 complete, ready-to-paste image generation prompts — each a distinct visual route for the same product and angle, with its own negative prompt and overlay hook, plus a recommended first test.
+**Output:** 5 complete, ready-to-paste image generation prompts — each a distinct visual route for the same product and angle, with an overlay hook and embedded negative instructions, plus a recommended first test. Output is compact: short product read, 5 prompts, short recommendation.
 
 ---
 
@@ -67,9 +67,8 @@ Do not mix the two. The image prompt system comes first. The adcopy system comes
 3. State your static angle
 4. The system will analyse the product and generate 5 distinct static prompt options
 5. Each option follows the structure in `static-output-template.md`
-6. Copy any prompt directly into your image generator — each one stands alone
-7. Copy the matching negative prompt into the negative prompt field
-8. Generate images for each option, then select the best static(s) for CBO testing
+6. Copy any prompt directly into your image generator — each one stands alone, with negatives embedded
+7. Generate images for each option, then select the best static(s) for CBO testing
 
 ---
 
