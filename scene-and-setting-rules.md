@@ -120,10 +120,14 @@ The background is not decoration. It is part of the believability of the image. 
 - Coastal path railings, timber boardwalks, or esplanade infrastructure
 
 **Light and time of day:**
-- Morning light (8am–11am) is the default — warm, soft, and flattering
+- Morning light (8am–11am) is the default for outdoor scenes — warm, soft, and flattering
 - Slightly overcast morning light works well — even, no harsh shadows
-- Avoid midday overhead light (too harsh) and late afternoon golden hour (too editorial)
-- Avoid night or indoor-only scenes
+- For indoor and domestic scenes: natural household window light is the preferred source
+- Slightly uneven indoor light is acceptable — it reads as real, not as a lighting failure
+- Soft side light from a window is more believable than evenly lit interior scenes
+- Avoid: midday overhead light (too harsh), late afternoon golden hour (too editorial), studio flash or ring-light look
+- Avoid night scenes
+- Do not use commercial or fashion-shoot lighting for any option — indoor or outdoor
 
 ---
 

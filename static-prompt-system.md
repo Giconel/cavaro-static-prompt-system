@@ -82,7 +82,18 @@ For each of the 5 creative routes, write a full image generation prompt using:
 - Overlay and safe zone rules from overlay-and-safe-zone-rules.md
 - Realism rules
 
-Embed the most important negative instructions at the end of each prompt as natural language — do not write a separate negative prompt block. Include at minimum: no plastic skin, no altered garment, no editorial model energy, no Gen Z styling, no studio background, no fake logos or watermarks, no cheap graphics.
+Embed the most important negative instructions at the end of each prompt as natural language — do not write a separate negative prompt block.
+
+Include at minimum:
+- No plastic skin, no hyper-smooth AI surfaces
+- No altered garment or product changes
+- No editorial model energy, no catalogue posing
+- No commercial fashion-shoot lighting, no studio lighting, no cinematic shallow depth of field used as a style choice
+- No overly symmetrical or heavily art-directed composition
+- No luxury campaign feel, no Gen Z styling
+- No studio background, no fake logos, no cheap graphics
+
+Each prompt should also include a positive realism anchor — a phrase that directs the generator toward capture realism, such as: "authentic smartphone-photo feel", "candid friend-shot quality", "natural household window light", "slightly imperfect framing", "captured moment, not staged shoot".
 
 Each prompt must stand alone. A person should be able to copy any single prompt and paste it directly into an image generator without needing any other context.
 
@@ -126,7 +137,9 @@ This system is not creating beautiful AI fashion art. It is creating testable Me
 - Do not make the five options random — each must be a controlled variation with a clear visual hypothesis
 - The image must stop the scroll AND communicate the buying reason in the same frame
 - The viewer should feel: "I could wear that in real life" — not "that looks like an ad"
-- Realism is a performance variable. Plastic skin, fake backgrounds, and editorial styling kill trust and conversion
+- Realism is a performance variable. Plastic skin, commercial lighting, polished composition, and editorial styling kill trust and conversion
+- Capture realism is a performance variable. An image that feels captured in real life outperforms an image that looks produced, even when the produced image is technically better
+- The target quality level is: a great candid photo taken by a friend with a good phone — not a professional shoot, not a bad selfie
 
 ---
 

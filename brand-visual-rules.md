@@ -31,10 +31,15 @@ Cavaro should feel calm, feminine, trustworthy, and polished — like a premium 
 - The setting should feel like it exists, not like it was art directed
 
 **Photography Feel**
-- UGC-style, like a genuine phone photo taken by someone who knows the subject
-- Slightly imperfect framing is good
-- Natural depth of field — soft background, clear subject
+- The image should feel captured, not staged
+- Friend-shot or self-shot feel — like someone who knows her took the photo, not a brand photographer
+- Smartphone-photo realism is welcome and preferred
+- Slightly imperfect framing is good — not every element needs to be centred or perfectly composed
+- Natural subject placement — she does not need to be dead-centre in the frame
+- Natural depth of field — soft background, clear subject — but not cinematic or hyper-stylised
 - No lens flares, no creative filters, no editorial styling choices
+- No high-end commercial fashion lighting
+- No cinematic shallow-depth-of-field treatment that reads as brand campaign
 
 ---
 
@@ -96,16 +101,43 @@ These details make Cavaro ads feel trustworthy to the target customer:
 
 ---
 
+## Capture Realism Standard
+
+The goal is not lower quality. The goal is believable quality — images that feel like a real person captured a real moment.
+
+**What "captured" means:**
+- The image feels like it was taken in the flow of real life, not during a planned photoshoot
+- The framing might be slightly off-centre, the light might be slightly uneven, the pose might be mid-movement
+- Those imperfections are features, not flaws — they are what makes the image feel real
+- The woman is living her life; the photo just happened to be taken
+
+**What to reject:**
+- Any image that looks like a commercial fashion shoot, even subtly
+- Overly symmetrical composition — not every image needs perfect centering
+- Hyper-stylised shallow depth of field — this reads as brand campaign, not UGC
+- Smooth polished AI sheen — the visual equivalent of plastic skin on a surface
+- Luxury campaign feel — cool, aspirational, controlled
+- Heavily art-directed composition — everything in its place, nothing out of order
+
+**The quality guardrail:**
+Still premium-lite and ad-worthy. The image should look like a great candid photo taken by a friend with a good phone — not a bad selfie, not a blurry snapshot. Authentic imperfection, not amateur failure.
+
+---
+
 ## Realism Rules
 
-These are non-negotiable for every prompt. Realism is a performance variable — images that look like AI renders do not convert.
+These are non-negotiable for every prompt. Realism is a performance variable — images that look like AI renders or commercial shoots do not convert.
 
 - Natural skin texture must remain visible — pores, fine lines, and subtle imperfections are correct
 - Fabric must show realistic folds, weight, and natural movement — not a perfect render
-- Lighting must be imperfect but flattering — natural daylight, not studio flash
+- Lighting must be imperfect but flattering — natural daylight or household window light, not studio flash
+- Slightly uneven or imperfect lighting is acceptable — it adds authenticity, not unprofessionalism
 - Background must be realistic, continuous, and have real depth — not blurred to white or clearly CGI
 - No plastic skin
 - No hyper-smooth AI surfaces
+- No high-end commercial fashion lighting
+- No cinematic shallow depth of field used as a style choice
+- No overly perfect or overly symmetrical composition
 - No distorted hands — choose poses that reduce hand complexity where possible
 - No fake logos, supplier branding, or watermarks
 - No unreadable or floating text in the image

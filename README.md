@@ -132,4 +132,4 @@ Every prompt is built to produce a testable Meta ad static — not a beautiful A
 
 ## Version
 
-v4 — Authentic candid visual direction added. Domestic/mirror settings added. Overlay made optional. Exact product fidelity rules strengthened. Core 5-prompt workflow unchanged.
+v5 — Capture realism rules strengthened across system. Anti-polish and anti-commercial-lighting rules added. Composition realism added. Positive realism anchors added to prompt-building logic. Core 5-prompt workflow unchanged.

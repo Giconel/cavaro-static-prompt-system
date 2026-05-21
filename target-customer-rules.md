@@ -74,10 +74,13 @@ Always describe the body type briefly in the prompt. Do not leave it unspecified
 - A direct camera glance is acceptable in mirror/selfie options — it can feel natural and intimate, not posed
 
 **Pose and Movement**
-- Natural and casual — not posed
+- Natural and casual — she is wearing the garment, not presenting it
+- The distinction: a woman wearing clothes in real life vs a model showing clothes to a camera
 - Walking, pausing, holding a coffee cup, checking a mirror, looking at something slightly off camera
 - In home or mirror options: looking at her own reflection, adjusting her outfit, about to head out
+- Subtle, everyday body language — the kind that happens when no one is watching
 - Avoid: hands-on-hips fashion poses, over-choreographed movement, model posture, catalogue body language
+- Avoid: perfect upright posture held for a camera — she can have a slight natural lean or turn
 - A self-shot or mirror-shot angle is welcome when it improves authenticity and believability
 
 ---
@@ -90,6 +93,7 @@ Always describe the body type briefly in the prompt. Do not leave it unspecified
 - An aspirational fantasy figure
 - A stock photo woman
 - A luxury fashion campaign model
+- A product presenter — she is not showing the garment to the viewer, she is wearing it in her life
 
 ---
 

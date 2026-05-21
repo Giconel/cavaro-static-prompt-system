@@ -113,9 +113,12 @@ Avoid: fake studio, empty showroom, luxury hotel, overly aesthetic influencer ba
 ### 6. Composition
 - Vertical 9:16, 1080×1920
 - Subject clearly visible, product is the visual focus
-- Natural candid crop, slightly imperfect framing
+- Natural candid crop, slightly imperfect framing — she does not need to be dead-centre
+- Real-camera or real-phone feeling — not a perfectly composed campaign shot
+- Not overly symmetrical — slight subject offset, natural placement in frame
 - Enough background context to make the scene believable
 - Keep outfit easy to see — do not crop important product details
+- The composition should feel like it was captured, not constructed
 
 ### 7. Safe Zones
 - Top 400px — no text
@@ -146,12 +149,20 @@ Each image must communicate one clear buying reason: comfort, flattering fit, ea
 The emotion must be subtle and believable. The viewer should feel: "I could wear that in real life."
 
 ### 10. Realism Rules
-- Natural skin texture must remain visible
+The target quality level: a great candid photo taken by a friend with a good phone. Not a professional fashion shoot. Not a bad selfie.
+
+- Natural skin texture must remain visible — pores, fine lines, subtle imperfections are correct
 - Fabric must show realistic folds, weight, and movement
-- Lighting must be imperfect but flattering
+- Lighting must be imperfect but flattering — natural daylight or household window light preferred
+- Slightly uneven or imperfect lighting is acceptable — it adds authenticity
 - Background must be realistic and continuous
-- No plastic skin
-- No hyper-smooth AI surfaces
+- Capture feel: the image should feel captured in real life, not staged for a camera
+- No plastic skin, no hyper-smooth AI surfaces
+- No high-end commercial fashion lighting
+- No cinematic shallow depth of field used as a stylistic choice
+- No overly symmetrical or heavily art-directed composition
+- No smooth polished AI sheen on any surface
+- No luxury campaign or brand-shoot feel
 - No distorted hands — choose poses that reduce hand complexity
 - No fake logos, supplier branding, or watermarks
 - No random accessories unless they fit the setting naturally
@@ -223,9 +234,11 @@ Explain in 2–3 sentences only.
 - Only generate the final output in the required compact format
 
 The most important negative instructions to embed in every prompt:
-No plastic skin. No altered garment. No editorial model energy. No Gen Z styling. No studio background. No fake logos or watermarks. No cheap graphics.
+No plastic skin. No hyper-smooth AI surfaces. No altered garment. No editorial model energy. No catalogue posing. No commercial fashion-shoot lighting. No cinematic shallow depth of field. No overly symmetrical or art-directed composition. No luxury campaign feel. No Gen Z styling. No studio background. No fake logos. No cheap graphics.
 
 Add product-specific negatives where the garment has high-risk details (e.g. button count, print, sleeve style, open front, length).
+
+Each prompt should also include a positive realism anchor such as: "authentic smartphone-photo feel", "candid friend-shot quality", "natural window light", "slightly imperfect framing", "captured moment not staged shoot".
 
 ---
 
