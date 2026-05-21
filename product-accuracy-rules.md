@@ -76,6 +76,35 @@ Read the product carefully before writing any prompt. Record every visible detai
 
 ---
 
+## Common AI Generator Errors By Garment Type
+
+Know what image generators tend to get wrong before writing the prompt. Describe these details with extra precision when they apply.
+
+**Knit and textured fabrics**
+- Generators often smooth out ribbing, cable knit, or boucle texture — describe the texture explicitly and include it in the negative prompt
+- Open-front cardigans often get rendered as closed or buttoned — state "open front, no closure" clearly
+
+**Button-front garments**
+- Generators frequently change button count, size, and colour — always specify exact number, size description, and colour
+- Pearl, ceramic, or contrast buttons are high risk — name them clearly every time
+
+**Printed or patterned garments**
+- Generators often simplify prints into generic versions — describe the print in detail: scale, colour combination, repeat style
+- Stripes often change direction or width — state horizontal/vertical and scale
+
+**Sleeve styles**
+- Flutter sleeves, puff sleeves, and balloon sleeves are frequently misrendered — name the style and add it to the negative prompt
+- Three-quarter sleeves often become full-length or short — state the length precisely
+
+**Length**
+- Midi and maxi lengths are frequently shortened — state the length in body terms (e.g. "falls to mid-calf" or "below the knee") not just "midi"
+- Where the hem lands should be described relative to the body
+
+**Wrap or tie garments**
+- Wrap necklines and tie-waist details are often lost — describe them explicitly and add to negative prompt
+
+---
+
 ## Product Accuracy Check
 
 Before finalising any prompt, ask:

@@ -18,7 +18,7 @@ plastic skin, hyper-smooth skin, airbrushed skin, over-retouched, porcelain skin
 
 ## Category-Specific Additions
 
-Add these to the negative prompt when relevant:
+Add these to the negative prompt when relevant. Always include the relevant additions — do not rely on the base prompt alone for high-risk garment details.
 
 **For patterned or printed garments:**
 ```
@@ -38,6 +38,21 @@ missing buttons, wrong button colour, wrong number of buttons, missing closure d
 **For maxi or midi length garments:**
 ```
 shortened garment, wrong length, knee length instead of midi, cropped incorrectly
+```
+
+**For wrap, tie, or open garments:**
+```
+closed front instead of open, missing tie detail, wrong wrap direction, altered neckline shape, garment closing incorrectly
+```
+
+**For flutter, puff, or balloon sleeves:**
+```
+flat sleeves instead of volume, wrong sleeve style, straight sleeve instead of flutter, deflated puff sleeve
+```
+
+**For printed or patterned garments:**
+```
+changed pattern, solid colour instead of print, wrong print scale, wrong print colours, simplified pattern, generic print instead of product print
 ```
 
 ---

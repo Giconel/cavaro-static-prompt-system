@@ -108,6 +108,59 @@ When any conflict exists, follow this priority:
 
 ---
 
+## Performance Rules
+
+This system is not creating beautiful AI fashion art. It is creating testable Meta ad static prompts.
+
+- Every option must test the same angle through a different believable customer moment
+- Do not make the five options random — each must be a controlled variation with a clear visual hypothesis
+- The image must stop the scroll AND communicate the buying reason in the same frame
+- The viewer should feel: "I could wear that in real life" — not "that looks like an ad"
+- Realism is a performance variable. Plastic skin, fake backgrounds, and editorial styling kill trust and conversion
+
+---
+
+## Model Variation Rules
+
+Across the 5 options, use these three age bands in a controlled way. Do not repeat the same band twice in a row. Aim to cover all three bands across the 5 options.
+
+| Band | Age appearance | Use for |
+|---|---|---|
+| A | 35–42 | Younger end of target — busy, active, family or career life |
+| B | 43–49 | Core target — most relatable to the majority of the audience |
+| C | 50–55 | Upper end — often underrepresented, high relatability for that segment |
+
+Body type variation across the 5 options:
+- Average build — the baseline, use in at least 2 options
+- Petite build — use in 1 option
+- Slightly fuller or curvier build — use in 1 option
+- Slightly taller build — use in 1 option
+
+Ethnicity: rotate across a realistic Australian range — Anglo-Celtic, Southern European, East Asian, or mixed — across the 5 options. Do not use the same ethnicity description in every option.
+
+---
+
+## Creative Variation Rules
+
+Across the 5 options, vary:
+- Model age band (A, B, or C — see above)
+- Body type (average, petite, fuller, taller)
+- Setting (use different settings from scene-and-setting-rules.md)
+- Pose and body language
+- Camera feel (full body vs three-quarter vs close composition)
+- Emotional moment (purposeful, relaxed, paused, mid-movement)
+- Product framing (full silhouette visible vs partial crop with detail emphasis)
+- Overlay hook (each option should test a different hook angle)
+
+Keep consistent across all 5 options:
+- Same product — same garment, same colour, same details
+- Same buying reason — same angle
+- Same Cavaro brand feel — calm, warm, real, premium-lite
+- Same product accuracy rules
+- Same Australian setting requirement
+
+---
+
 ## Files In This System
 
 | File | Role |

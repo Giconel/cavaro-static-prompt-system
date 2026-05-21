@@ -94,11 +94,25 @@ Do not mix the two. The image prompt system comes first. The adcopy system comes
 
 This system is designed to work with:
 - Nano Banana
+- ChatGPT Images (GPT-4o)
 - Higgsfield
 - Any comparable realistic image generation tool that accepts a positive prompt and negative prompt
 
 ---
 
+## Key Design Principles
+
+**Five options, not five versions of the same thing.**
+Each of the 5 prompts varies by model age band, body type, setting, pose, composition, and overlay hook. The goal is controlled creative variation, not random generation.
+
+**Product accuracy above everything.**
+The garment description is identical across all 5 prompts. The product does not change. The scene, model, and moment change.
+
+**Performance first.**
+Every prompt is built to produce a testable Meta ad static — not a beautiful AI image. Realism, believability, and buying-reason clarity are the metrics.
+
+---
+
 ## Version
 
-This is version 1 — a clean first build. It is designed to be tested, used, and improved over time. Keep rules modular and update individual files as the system is refined.
+v2 — Full brand rules, model variation bands, realism rules, and performance context added. Core 5-prompt workflow unchanged.

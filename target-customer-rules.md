@@ -8,10 +8,37 @@ She buys clothes she can actually wear. She values comfort, quality, a flatterin
 
 ---
 
+## Controlled Age Bands For The 5 Options
+
+When generating 5 options, distribute across these bands deliberately. Do not use the same band for every option.
+
+| Band | Apparent age | Notes |
+|---|---|---|
+| A | 35–42 | Younger end of target — often busier, career or family stage |
+| B | 43–49 | Core target — the most commercially important segment |
+| C | 50–55 | Upper end — underrepresented in fashion ads, high relatability |
+
+Aim to cover all three bands across the 5 options. Band B should appear at least twice across a full set.
+
+---
+
+## Body Type Variation For The 5 Options
+
+Distribute body types across the 5 options. Do not use the same body type for every option.
+
+- **Average build** — use in at least 2 options; this is the baseline
+- **Petite build** — use in 1 option; shorter frame, proportionally smaller
+- **Slightly fuller or curvier build** — use in 1 option; real curves, not plus-size as a statement
+- **Slightly taller build** — use in 1 option; longer limbs, can affect how the garment reads
+
+Always describe the body type briefly in the prompt. Do not leave it unspecified.
+
+---
+
 ## How She Should Look In The Image
 
 **Age**
-- She should appear to be in her late 30s to early 50s
+- Match the age appearance to the assigned band (A, B, or C) for that option
 - Do not make her look younger to seem more aspirational
 - Do not make her look older than the target range
 
@@ -19,7 +46,7 @@ She buys clothes she can actually wear. She values comfort, quality, a flatterin
 - Natural skin texture — pores, fine lines, and subtle imperfections are correct
 - No plastic skin, no hyper-smoothed AI skin, no excessive retouching effect
 - Warm, healthy complexion appropriate to the Australian lifestyle
-- Ethnicity: default to a realistic Australian range — Anglo-Celtic, Southern European, East Asian, or mixed — unless the product or angle calls for something specific
+- Ethnicity: rotate across a realistic Australian range across the 5 options — Anglo-Celtic, Southern European, East Asian, or mixed. Do not default to the same background in every option.
 
 **Body**
 - Normal, realistic body proportions

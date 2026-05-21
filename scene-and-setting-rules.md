@@ -63,11 +63,32 @@ Match the setting to the angle using this logic:
 
 ## Background Rules
 
+The background is not decoration. It is part of the believability of the image. A bad background destroys trust.
+
+**Required depth and texture:**
 - The background must have real depth — not flat, not blurred to white
-- Use realistic textures: worn pavement, brick, timber, foliage, painted render
-- Include subtle environmental details: parked cars, distant people, café furniture, market stalls
-- Australian native plants or established garden greenery where it fits naturally
+- Use realistic surface textures: worn concrete pavement, aged brick, weathered timber, natural stone, painted render, café tiles
 - The background should feel lived-in, not dressed
+
+**Environmental details to include:**
+- Parked cars or bicycles further down the street
+- Distant people or soft crowd movement in the background
+- Café furniture, market stalls, shopfront awnings, or window displays
+- Australian native plants — grevillea, banksia, bottlebrush — or established deciduous garden trees
+- Street signs, bins, poles, or other ordinary urban elements that confirm a real location
+
+**Australian architecture signals:**
+- Brick and weatherboard homes with established gardens
+- Federation-era shopfronts with timber awnings
+- Rendered or tiled café and retail facades
+- Wide suburban footpaths with nature strips
+- Coastal path railings, timber boardwalks, or esplanade infrastructure
+
+**Light and time of day:**
+- Morning light (8am–11am) is the default — warm, soft, and flattering
+- Slightly overcast morning light works well — even, no harsh shadows
+- Avoid midday overhead light (too harsh) and late afternoon golden hour (too editorial)
+- Avoid night or indoor-only scenes
 
 ---
 

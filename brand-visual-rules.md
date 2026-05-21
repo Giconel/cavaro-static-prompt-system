@@ -62,6 +62,35 @@ These details make Cavaro ads feel trustworthy to the target customer:
 
 ---
 
+## Realism Rules
+
+These are non-negotiable for every prompt. Realism is a performance variable — images that look like AI renders do not convert.
+
+- Natural skin texture must remain visible — pores, fine lines, and subtle imperfections are correct
+- Fabric must show realistic folds, weight, and natural movement — not a perfect render
+- Lighting must be imperfect but flattering — natural daylight, not studio flash
+- Background must be realistic, continuous, and have real depth — not blurred to white or clearly CGI
+- No plastic skin
+- No hyper-smooth AI surfaces
+- No distorted hands — choose poses that reduce hand complexity where possible
+- No fake logos, supplier branding, or watermarks
+- No unreadable or floating text in the image
+- No extra accessories, jewellery, or props unless they fit the setting naturally
+
+---
+
+## Performance Context
+
+These prompts are for Meta CBO ad testing. The image must work as an ad, not as art.
+
+- The product must be clearly visible and easy to see in the frame
+- The buying reason must be readable from the image without needing the caption
+- The woman must be someone the viewer can see themselves in — not someone they aspire to become
+- The setting must be immediately recognisable and relatable — not exotic or staged
+- The overall image must look like a genuine photo someone shared, not an ad someone made
+
+---
+
 ## Brand Mood Reference Words
 
 Use these as a tonal guide when writing prompts:
