@@ -54,27 +54,28 @@ Define the creative hypothesis before writing any prompts:
 - What does the target customer need to feel when she sees it?
 - What is the single most important visual element to get right?
 
-### Step 4 — Plan 5 Distinct Creative Routes
-Before writing any prompts, map out 5 meaningfully different approaches for the same product and angle. Each route must vary on at least three of:
-- Model age (within 35–55)
-- Model appearance and body type
-- Setting and location — mix indoor/domestic and outdoor settings
-- Pose and body language — candid moments, not catalogue poses
-- Composition and framing
-- Emotional moment
-- Product framing (full body, three-quarter, close composition)
-- Overlay hook (optional per option)
+### Step 4 — Select 2 Strongest Creative Routes
+Think critically before deciding. Do not default to the first two ideas. Select the 2 strongest, most usable, most test-worthy creative routes for this specific product and angle.
 
-**Include at least 1–2 domestic or candid routes per set of 5 options:**
+**Option 1** = the strongest likely winner — clearest proof of the angle, most immediately readable, lowest AI-rendering risk.
+
+**Option 2** = the strongest alternative route — must differ meaningfully from Option 1 on at least two of:
+- Model age or build
+- Setting type (indoor vs outdoor, or different location)
+- Pose and emotional moment
+- Composition or framing
+
+Strong routes to consider:
 - Home mirror selfie (bedroom or hallway, natural window light)
 - Coffee at home (kitchen, morning light)
 - Front doorway (about to head out)
 - Quiet café seated (intimate, unhurried)
+- Relaxed outdoor walk or errand moment
 
-Do not default to all outdoor settings. Do not create 5 versions of the same catalogue concept. Each option should be a genuinely different visual route with a clear performance hypothesis.
+Do not default to all outdoor settings. Do not produce two versions of the same concept. The 2 options must be genuinely different visual routes.
 
-### Step 5 — Build 5 Complete Prompts
-For each of the 5 creative routes, write a full image generation prompt using:
+### Step 5 — Build 2 Complete Prompts
+For each of the 2 selected routes, write a full image generation prompt using:
 - The product accuracy description from Step 1 (same in every prompt — do not change the garment)
 - The specific setting, model, pose, and moment for that option
 - Brand visual rules from brand-visual-rules.md
@@ -106,11 +107,11 @@ Output should be compact: short product read, 5 ready-to-paste prompts, short re
 
 ## Output Format
 
-Output should be compact: short product read, 5 ready-to-paste prompts, short recommendation.
+Output should be compact: short product read, 2 ready-to-paste prompts, short recommendation.
 
 Every output follows the structure in static-output-template.md:
 1. Short product read — category, key details to protect, selected angle
-2. Five ready-to-paste prompts — each with an overlay hook, the full prompt, and 1–2 sentence rationale
+2. Two ready-to-paste prompts — each with an overlay hook, the full prompt, and 1–2 sentence rationale
 3. Recommended first test — one choice with a brief reason
 
 Each prompt is copyable directly into Nano Banana, ChatGPT Images, Higgsfield, or any comparable image generator. Negative instructions are embedded inside each prompt — there is no separate negative prompt block.
@@ -134,7 +135,7 @@ When any conflict exists, follow this priority:
 This system is not creating beautiful AI fashion art. It is creating testable Meta ad static prompts.
 
 - Every option must test the same angle through a different believable customer moment
-- Do not make the five options random — each must be a controlled variation with a clear visual hypothesis
+- Do not make the two options random — each must be a controlled variation with a clear visual hypothesis
 - The image must stop the scroll AND communicate the buying reason in the same frame
 - The viewer should feel: "I could wear that in real life" — not "that looks like an ad"
 - Realism is a performance variable. Plastic skin, commercial lighting, polished composition, and editorial styling kill trust and conversion
@@ -145,7 +146,7 @@ This system is not creating beautiful AI fashion art. It is creating testable Me
 
 ## Model Variation Rules
 
-Across the 5 options, use these three age bands in a controlled way. Do not repeat the same band twice in a row. Aim to cover all three bands across the 5 options.
+Use these three age bands. Default to Band B for Option 1. Use a different band for Option 2.
 
 | Band | Age appearance | Use for |
 |---|---|---|
@@ -153,29 +154,23 @@ Across the 5 options, use these three age bands in a controlled way. Do not repe
 | B | 43–49 | Core target — most relatable to the majority of the audience |
 | C | 50–55 | Upper end — often underrepresented, high relatability for that segment |
 
-Body type variation across the 5 options:
-- Average build — the baseline, use in at least 2 options
-- Petite build — use in 1 option
-- Slightly fuller or curvier build — use in 1 option
-- Slightly taller build — use in 1 option
+Body type: vary between the 2 options — do not use identical builds for both. Use average, petite, fuller/curvier, or slightly taller.
 
-Ethnicity: rotate across a realistic Australian range — Anglo-Celtic, Southern European, East Asian, or mixed — across the 5 options. Do not use the same ethnicity description in every option.
+Ethnicity: use a realistic Australian range — Anglo-Celtic, Southern European, East Asian, or mixed. Do not use the same background for both options.
 
 ---
 
 ## Creative Variation Rules
 
-Across the 5 options, vary:
-- Model age band (A, B, or C — see above)
-- Body type (average, petite, fuller, taller)
-- Setting — mix indoor/domestic and outdoor (use different settings from scene-and-setting-rules.md)
+Across the 2 options, vary:
+- Model age band (A, B, or C — default Band B for Option 1, different for Option 2)
+- Body type (do not use the same build for both)
+- Setting — include at least one indoor/domestic option across the 2 routes
 - Pose and body language — candid, real-life moments preferred over catalogue poses
-- Camera feel (full body vs three-quarter vs close composition)
 - Emotional moment (purposeful, relaxed, paused, self-checking in mirror, mid-movement)
-- Product framing (full silhouette visible vs partial crop with detail emphasis)
 - Overlay hook (optional — include when it strengthens the concept, omit when not needed)
 
-Keep consistent across all 5 options:
+Keep consistent across both options:
 - Same product — same garment, same colour, same details
 - Same buying reason — same angle
 - Same Cavaro brand feel — calm, warm, real, premium-lite

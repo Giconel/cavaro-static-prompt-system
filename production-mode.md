@@ -22,7 +22,10 @@ Always produce exactly this structure. Nothing more.
 - Protect: 2–3 details most likely to be misrendered
 - Angle: the selected buying reason in plain language
 
-**2. Five Ready-to-Paste Static Prompts**
+**2. Two Ready-to-Paste Static Prompts**
+
+Option 1 = strongest likely winner for this product and angle.
+Option 2 = strongest alternative route, meaningfully different from Option 1.
 
 For each option include only:
 - Option name
@@ -168,36 +171,39 @@ The target quality level: a great candid photo taken by a friend with a good pho
 - No random accessories unless they fit the setting naturally
 - No product changes of any kind
 
-### 11. Five-Option Variation Rules
-The 5 options test the same product and same angle through 5 different realistic customer moments.
+### 11. Two-Option Selection Rules
+The 2 options test the same product and same angle through 2 meaningfully different realistic customer moments.
 
-Vary across the 5 options:
-- Model age (within 35–55)
-- Body type (average, petite, fuller/curvier, slightly taller)
-- Setting — mix indoor/domestic and outdoor options
-- Pose and body language — candid moments, not posed catalogue
-- Composition (full body, three-quarter, close crop)
-- Camera feel and emotional moment
-- Product framing
-- Overlay hook (when used)
+Think critically before deciding. Do not default to the first two ideas. Select the 2 strongest, most usable, most test-worthy creative routes for this specific product and angle.
 
-**Include at least 1–2 of these candid/direct-response routes across the 5 options:**
+**Option 1** is the strongest likely winner — the clearest proof of the angle, the most immediately readable, the lowest AI-rendering risk.
+
+**Option 2** is the strongest alternative route — it must differ from Option 1 on at least two of:
+- Model age or build
+- Setting (indoor vs outdoor, or different location type)
+- Pose and emotional moment
+- Composition or framing
+- Overlay hook
+
+The 2 options must be meaningfully different creative routes, not minor variations of the same idea.
+
+**Consider these as strong route options:**
 - Home mirror selfie — bedroom or hallway, checking her look
 - Coffee at home — kitchen or dining, relaxed morning moment
 - Front doorway — about to head out, natural transition moment
-- Quiet café seated — intimate, unhurried, looking down at her cup
-- A moment that feels self-shot or friend-shot, not photographed by a brand
+- Quiet café seated — intimate, unhurried
+- Relaxed outdoor walk or errand moment
+- A moment that feels self-shot or friend-shot
 
-Keep the same across all 5 options:
+Keep the same across both options:
 - Product — same garment, same colour, same details (exact fidelity)
 - Angle — same buying reason
 - Cavaro brand feel — calm, warm, real, premium-lite
 - Australian setting requirement
+- Capture realism standard — candid, not staged
 
-Do not make the options random. Each must be a controlled variation of the same buying reason.
-
-### 12. Model Variation
-Distribute across these three age bands across the 5 options. Cover all three bands. Band B (43–49) should appear at least twice.
+### 12. Model Selection
+Choose the most appropriate age and build for each option. The 2 options should use different age or build profiles.
 
 | Band | Age | Notes |
 |---|---|---|
@@ -205,9 +211,11 @@ Distribute across these three age bands across the 5 options. Cover all three ba
 | B | 43–49 | Core target — most commercially important |
 | C | 50–55 | Upper end — underrepresented, high relatability |
 
-Body types across 5 options: average (×2 minimum), petite (×1), fuller/curvier (×1), slightly taller (×1).
+Default to Band B for Option 1. Use a different band or a different build type for Option 2.
 
-Ethnicity: rotate across a realistic Australian range — Anglo-Celtic, Southern European, East Asian, or mixed. Do not use the same background in every option.
+Body types to use across the 2 options: vary between average, petite, fuller/curvier, or slightly taller — do not use identical builds for both.
+
+Ethnicity: use a realistic Australian range — Anglo-Celtic, Southern European, East Asian, or mixed. Do not use the same background for both options.
 
 Avoid: overly young faces, heavy makeup, influencer glam, editorial posing, unrealistic bodies.
 
@@ -275,8 +283,10 @@ Use the uploaded product photo as the only source for the clothing product.
 Keep the product completely accurate — reproduce the exact product, not a similar or simplified version.
 Adapt model, styling, and setting to Australian women aged 35–55.
 Do not keep the original PDP model styling if it does not fit the target customer.
-The five options should test the same buying reason through different realistic customer moments.
-Include at least 1–2 indoor or domestic options (home mirror, coffee at home, doorway) across the 5 options.
+Generate only 2 options. Select the 2 strongest, most usable creative routes for this specific product and angle.
+Option 1 = strongest likely winner. Option 2 = strongest alternative route, meaningfully different.
+The 2 options should test the same buying reason through different realistic customer moments.
+Consider indoor or domestic options (home mirror, coffee at home, doorway) as strong routes.
 Prefer authentic, candid, real-life moments over polished catalogue or lifestyle imagery.
 Overlay is optional — omit it when the concept is stronger without text.
 Keep the output practical and compact.

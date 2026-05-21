@@ -16,13 +16,13 @@ Its only job is to produce a high-quality image prompt that can be dropped into 
 
 ---
 
-## Two Inputs. Five Outputs.
+## Two Inputs. Two Outputs.
 
 **Input 1:** A product photo (uploaded image of the garment)
 
 **Input 2:** A static angle (the single buying reason the ad is built around)
 
-**Output:** 5 complete, ready-to-paste image generation prompts — each a distinct visual route for the same product and angle, with an overlay hook and embedded negative instructions, plus a recommended first test. Output is compact: short product read, 5 prompts, short recommendation.
+**Output:** 2 complete, ready-to-paste image generation prompts — the 2 strongest creative routes for the same product and angle, with an overlay hook and embedded negative instructions, plus a recommended first test. Output is compact: short product read, 2 prompts, short recommendation.
 
 ---
 
@@ -33,7 +33,7 @@ Product photo + Static angle
         ↓
 Static Prompt System
         ↓
-5 ready-to-paste image prompt options
+2 ready-to-paste image prompt options
         ↓
 Image generator (Nano Banana / ChatGPT Images / Higgsfield / other)
         ↓
@@ -64,11 +64,11 @@ Do not mix the two. The image prompt system comes first. The adcopy system comes
 
 For daily prompt generation, use `production-mode.md` — not the full system files.
 
-`production-mode.md` is a compact standalone file that contains all the rules needed to generate 5 ready-to-paste static prompts in one session. It is designed to run fast in Claude Code Web without loading the full repository.
+`production-mode.md` is a compact standalone file that contains all the rules needed to generate 2 ready-to-paste static prompts in one session. It is designed to run fast in Claude Code Web without loading the full repository.
 
 **Daily use prompt for Claude Code Web:**
 
-> Use production-mode.md as the Cavaro Static Prompt System. Product photo: uploaded. Static angle: [INSERT ANGLE HERE]. Output only: Short Product Read, Five Ready-to-Paste Static Prompts, Recommended First Test.
+> Use production-mode.md as the Cavaro Static Prompt System. Product photo: uploaded. Static angle: [INSERT ANGLE HERE]. Output only: Short Product Read, Two Ready-to-Paste Static Prompts, Recommended First Test.
 
 **When to use the full system files:**
 Use the individual rule files (`brand-visual-rules.md`, `target-customer-rules.md`, etc.) only when improving, debugging, or expanding the system — not for daily production runs.
@@ -83,7 +83,7 @@ If a rule is updated or improved in the full system files, add the most importan
 2. Or open `static-prompt-system.md` for the full system process
 3. Upload your product photo
 4. State your static angle
-5. The system generates 5 distinct static prompt options
+5. The system selects and generates the 2 strongest static prompt options
 6. Copy any prompt directly into your image generator — each one stands alone, with negatives embedded
 7. Generate images for each option, then select the best static(s) for CBO testing
 
@@ -119,8 +119,8 @@ This system is designed to work with:
 
 ## Key Design Principles
 
-**Five options, not five versions of the same thing.**
-Each of the 5 prompts varies by model age band, body type, setting, pose, composition, and overlay hook. The goal is controlled creative variation, not random generation.
+**Two options, not two versions of the same thing.**
+Option 1 is the strongest likely winner. Option 2 is the strongest alternative route, meaningfully different on at least two dimensions. The goal is quality over quantity — two genuinely different creative routes, not a broad set of variations.
 
 **Product accuracy above everything.**
 The garment description is identical across all 5 prompts. The product does not change. The scene, model, and moment change.
@@ -132,4 +132,4 @@ Every prompt is built to produce a testable Meta ad static — not a beautiful A
 
 ## Version
 
-v5 — Capture realism rules strengthened across system. Anti-polish and anti-commercial-lighting rules added. Composition realism added. Positive realism anchors added to prompt-building logic. Core 5-prompt workflow unchanged.
+v6 — Output reduced from 5 options to 2. Option 1 = strongest likely winner. Option 2 = strongest alternative route, meaningfully different. Quality over quantity.
