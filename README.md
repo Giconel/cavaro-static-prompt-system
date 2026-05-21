@@ -60,13 +60,30 @@ Do not mix the two. The image prompt system comes first. The adcopy system comes
 
 ---
 
+## Fast Production Mode
+
+For daily prompt generation, use `production-mode.md` — not the full system files.
+
+`production-mode.md` is a compact standalone file that contains all the rules needed to generate 5 ready-to-paste static prompts in one session. It is designed to run fast in Claude Code Web without loading the full repository.
+
+**Daily use prompt for Claude Code Web:**
+
+> Use production-mode.md as the Cavaro Static Prompt System. Product photo: uploaded. Static angle: [INSERT ANGLE HERE]. Output only: Short Product Read, Five Ready-to-Paste Static Prompts, Recommended First Test.
+
+**When to use the full system files:**
+Use the individual rule files (`brand-visual-rules.md`, `target-customer-rules.md`, etc.) only when improving, debugging, or expanding the system — not for daily production runs.
+
+If a rule is updated or improved in the full system files, add the most important version of that rule to `production-mode.md` as well to keep the production file current.
+
+---
+
 ## How To Use This System
 
-1. Open `static-prompt-system.md` — this is the master file that explains the full process
-2. Upload your product photo
-3. State your static angle
-4. The system will analyse the product and generate 5 distinct static prompt options
-5. Each option follows the structure in `static-output-template.md`
+1. Open `production-mode.md` for daily prompt generation (fast)
+2. Or open `static-prompt-system.md` for the full system process
+3. Upload your product photo
+4. State your static angle
+5. The system generates 5 distinct static prompt options
 6. Copy any prompt directly into your image generator — each one stands alone, with negatives embedded
 7. Generate images for each option, then select the best static(s) for CBO testing
 
@@ -76,13 +93,14 @@ Do not mix the two. The image prompt system comes first. The adcopy system comes
 
 | File | What It Does |
 |---|---|
-| `static-prompt-system.md` | Master operating instructions — start here |
+| `production-mode.md` | **Daily use** — compact standalone operating file, start here for production runs |
+| `static-prompt-system.md` | Full system process and master instructions |
 | `product-accuracy-rules.md` | How to read the product and keep the garment accurate |
 | `brand-visual-rules.md` | Cavaro's visual identity and tone |
 | `target-customer-rules.md` | Who the woman in the image is |
 | `scene-and-setting-rules.md` | Australian settings and how to choose the right one |
 | `overlay-and-safe-zone-rules.md` | 9:16 format, Meta safe zones, text overlay rules |
-| `negative-prompt-rules.md` | Standard negative prompt to copy into every generation |
+| `negative-prompt-rules.md` | Standard negative prompt reference |
 | `static-output-template.md` | The exact output structure for every generated prompt |
 | `example-static-outputs.md` | Two worked examples — cardigan and linen blouse |
 | `README.md` | This file |
@@ -114,4 +132,4 @@ Every prompt is built to produce a testable Meta ad static — not a beautiful A
 
 ## Version
 
-v2 — Full brand rules, model variation bands, realism rules, and performance context added. Core 5-prompt workflow unchanged.
+v3 — Production mode file added. Compact daily output format. Core 5-prompt workflow unchanged.
