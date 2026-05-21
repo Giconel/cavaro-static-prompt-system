@@ -132,4 +132,4 @@ Every prompt is built to produce a testable Meta ad static — not a beautiful A
 
 ## Version
 
-v3 — Production mode file added. Compact daily output format. Core 5-prompt workflow unchanged.
+v4 — Authentic candid visual direction added. Domestic/mirror settings added. Overlay made optional. Exact product fidelity rules strengthened. Core 5-prompt workflow unchanged.

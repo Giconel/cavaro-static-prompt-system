@@ -26,7 +26,7 @@ Always produce exactly this structure. Nothing more.
 
 For each option include only:
 - Option name
-- Overlay hook
+- Overlay hook (optional — omit if the concept is stronger without text)
 - Ready-to-paste prompt
 - Why this option (1–2 sentences)
 
@@ -40,7 +40,14 @@ One option choice with 2–3 sentence explanation.
 ### 1. Product Accuracy
 Use the uploaded product photo as the ONLY source for the garment. Do not change colour, fabric, texture, fit, neckline, sleeves, buttons, silhouette, length, proportions, pattern, or any visible details. Product accuracy is more important than image beauty.
 
-Read the product carefully before writing any prompt. Identify: category, colour, fabric, fit, silhouette, neckline, sleeves, closures (number, size, colour), length, pattern or print, and all other visible details.
+Read the product carefully before writing any prompt. Identify and describe: category, colour, fabric and texture, fit, silhouette, neckline/collar/turtleneck shape, sleeve shape, cuff shape, hem shape, side vents or splits, length (in body terms), proportions, drop shoulder or shoulder line, oversized vs fitted level, closures (number, size, colour), pattern/cable knit/ribbing/weave details, overall garment structure.
+
+**Exact product fidelity rules:**
+- Reproduce the exact product — not a similar version, not a restyled interpretation, not a "close enough" knit
+- Do not simplify the product into a more generic sweater, cardigan, knit, fleece, or top
+- Do not normalize unusual features — if the product has an exaggerated silhouette, high-low hem, side split, chunky knit, cable pattern, or wide sleeve, those must remain clearly visible
+- Do not make an oversized garment look fitted or tailored
+- Do not remove or soften distinctive details because they are hard to render
 
 Do not guess unclear details. Do not simplify to make the prompt shorter. Do not change the colour because it is hard to render.
 
@@ -60,18 +67,36 @@ Realistic Australian women aged 35–55. She looks like a real customer, not a p
 - Approachable presence — not aspirational fantasy
 
 ### 4. Creative Style
-UGC-style but premium and ad-worthy. The image should feel like a natural phone photo taken by a friend, not a studio shoot.
+More authentic, more candid, more believable — less catalogue, less polished, less generic lifestyle.
 
-- Realistic smartphone perspective
-- Natural daylight with slight imperfections
-- Subtle motion and believable shadows
-- Authentic lifestyle setting
-- The final image must look like an original lifestyle photo, not an AI render
+The preferred direction is mature-woman iPhone-style fashion content. The image should feel like a natural phone photo taken by herself or a friend — not a studio shoot, not a lookbook, not a lifestyle catalogue.
+
+- Realistic smartphone perspective, natural and slightly imperfect
+- Natural and flattering but imperfect light — window light, soft morning light, open outdoor shade
+- Believable everyday environment — home, local street, doorstep, quiet café
+- Casual self-shot or friend-shot energy — not art directed
+- Subtle motion, realistic shadows, authentic moment
+- The final image must look like an original photo, not an AI render
+- More direct-response energy — the product and buying reason are immediately visible
+- The viewer should feel: "she's just like me" — not "that's aspirational"
+
+**Actively avoid:**
+- Generic catalogue lifestyle poses
+- Overly polished commercial fashion energy
+- Overly clean or art-directed backgrounds
+- "Pinterest pretty" images with no ad intent
+- Images that feel more like a lookbook than a performance static
 
 ### 5. Setting
-Use believable Australian outdoor or everyday lifestyle settings. Choose one that fits the angle and product.
+Use believable Australian everyday settings — indoor and outdoor. Prioritise intimate, real environments over polished outdoor scenes. Across the 5 options, include at least 1–2 indoor/domestic settings.
 
-Approved settings:
+**Indoor and domestic settings (high-priority for authenticity):**
+- Home mirror selfie — bedroom or hallway, natural window light from side
+- Relaxed home interior near a window — lived-in, not staged
+- Front doorway or porch — about to head out, natural outdoor light in front
+- Coffee at home — kitchen or dining area, morning window light
+
+**Outdoor and everyday settings:**
 - Inner-city café strip
 - Suburban high street
 - Weekend farmers market
@@ -79,10 +104,11 @@ Approved settings:
 - Residential street with established gardens
 - Local shopping village
 - Calm city laneway
+- Quiet café seated moment
 
-Background must feel real and lived-in: natural depth, imperfect textures, real pavement, Australian architecture, native greenery, parked cars, shopfronts, or subtle passers-by in the distance.
+Background must feel real and lived-in. For indoor settings: real home, natural light from windows, lived-in objects in background — not staged or showroom. For outdoor settings: natural depth, real pavement, Australian architecture, native greenery, parked cars, shopfronts, subtle passers-by.
 
-Avoid: fake studio, empty showroom, luxury hotel, overly aesthetic influencer backgrounds, tropical or overseas locations.
+Avoid: fake studio, empty showroom, luxury hotel, overly aesthetic influencer backgrounds, tropical or overseas locations, staged home interiors that look like a photoshoot.
 
 ### 6. Composition
 - Vertical 9:16, 1080×1920
@@ -98,17 +124,21 @@ Avoid: fake studio, empty showroom, luxury hotel, overly aesthetic influencer ba
 - All overlay text must stay inside the centre safe area only
 
 ### 8. Text Overlay
-Each option must include one short hook-style overlay matching the selected angle. Usually 4–6 words maximum. It must communicate one clear buying reason.
+Overlay is now optional. Prioritise image authenticity first. If a concept is stronger without text — especially home mirror or candid domestic options — omit the overlay.
 
+When overlay is included:
+- Short hook matching the selected angle — usually 4–6 words maximum
+- Communicates one clear buying reason
 - Premium, clean typography — elegant serif or clean modern sans
 - Soft neutral colours: cream, warm white, charcoal, or muted beige
 - Never use loud sale graphics, emojis, stickers, Canva effects, or discount-banner styling
-- Write a real hook for every option — do not use placeholders
-- Each of the 5 options should test a different hook
+- Each hook should be a different angle across the 5 options
 
 Good hook tone: "Dressed in under five minutes." / "The layer that goes with everything." / "Still wearing this at 4pm."
 
 Wrong hook tone: "Shop our new arrivals!" / "Feel amazing today!" / "Limited stock!"
+
+Safe zone rule: if overlay is used, top 400px no text, bottom 400px no text, left and right 150px no text.
 
 ### 9. Ad Psychology
 Each image must communicate one clear buying reason: comfort, flattering fit, easy styling, confidence, everyday polish, warmth, or getting dressed made easier.
@@ -133,15 +163,22 @@ The 5 options test the same product and same angle through 5 different realistic
 Vary across the 5 options:
 - Model age (within 35–55)
 - Body type (average, petite, fuller/curvier, slightly taller)
-- Setting
-- Pose and body language
+- Setting — mix indoor/domestic and outdoor options
+- Pose and body language — candid moments, not posed catalogue
 - Composition (full body, three-quarter, close crop)
 - Camera feel and emotional moment
 - Product framing
-- Overlay hook
+- Overlay hook (when used)
+
+**Include at least 1–2 of these candid/direct-response routes across the 5 options:**
+- Home mirror selfie — bedroom or hallway, checking her look
+- Coffee at home — kitchen or dining, relaxed morning moment
+- Front doorway — about to head out, natural transition moment
+- Quiet café seated — intimate, unhurried, looking down at her cup
+- A moment that feels self-shot or friend-shot, not photographed by a brand
 
 Keep the same across all 5 options:
-- Product — same garment, same colour, same details
+- Product — same garment, same colour, same details (exact fidelity)
 - Angle — same buying reason
 - Cavaro brand feel — calm, warm, real, premium-lite
 - Australian setting requirement
@@ -222,10 +259,13 @@ Each of the 5 static prompt options must include only:
 
 Rules:
 Use the uploaded product photo as the only source for the clothing product.
-Keep the product completely accurate.
+Keep the product completely accurate — reproduce the exact product, not a similar or simplified version.
 Adapt model, styling, and setting to Australian women aged 35–55.
 Do not keep the original PDP model styling if it does not fit the target customer.
 The five options should test the same buying reason through different realistic customer moments.
+Include at least 1–2 indoor or domestic options (home mirror, coffee at home, doorway) across the 5 options.
+Prefer authentic, candid, real-life moments over polished catalogue or lifestyle imagery.
+Overlay is optional — omit it when the concept is stronger without text.
 Keep the output practical and compact.
 Do not include long strategy sections, long checklists, or separate long negative prompts.
 Integrate only the most important negative instructions naturally inside each ready-to-paste prompt.

@@ -38,6 +38,38 @@ Cavaro should feel calm, feminine, trustworthy, and polished — like a premium 
 
 ---
 
+## Preferred Visual Direction
+
+The system should now lean toward a more authentic, intimate, candid feel — closer to mature-woman iPhone-style fashion content than a polished lifestyle catalogue.
+
+**Preferred qualities:**
+- Realistic mature woman, around 40–55, looking like herself
+- Natural and flattering but imperfect light — window light, soft morning light, open shade
+- Believable everyday environment — home, local street, quiet café, doorstep
+- Casual self-shot or friend-shot feel — not art directed
+- More direct-response energy — the image communicates the product and buying reason instantly
+- Less catalogue, less polished, less generic AI lifestyle
+- Emotionally relatable — the viewer recognises something true in the image
+- The image should feel like something a real woman would stop scrolling for because it feels real, not overproduced
+
+**Anti-stock rules:**
+The following qualities make an image feel like stock photography or a lifestyle catalogue. Avoid them actively:
+- Generic catalogue lifestyle poses — walking on a perfect street, smiling at nothing, holding coffee at arm's length
+- Overly polished commercial fashion energy
+- Overly perfect editorial posture or choreographed movement
+- Overly clean, art-directed backgrounds that look designed rather than lived-in
+- "Pinterest pretty" images that are beautiful but have no ad intent
+- Images that feel more like a lookbook than a performance static
+
+**What replaces it:**
+- A woman getting herself ready in her own bedroom, checking the mirror
+- A woman pausing in a doorway before heading out
+- A woman having coffee in her kitchen by the window
+- A moment that could have been photographed by a partner, friend, or herself
+- An image that makes the viewer think "she's just like me"
+
+---
+
 ## What Cavaro Does Not Look Like
 
 - Fast fashion — Shein, Boohoo, AliExpress
@@ -46,6 +78,8 @@ Cavaro should feel calm, feminine, trustworthy, and polished — like a premium 
 - Influencer aesthetic — perfectly curated, over-posed, hyper-produced
 - Cheap dropshipping — white backgrounds, bad lighting, supplier photos
 - Studio photography — seamless backdrops, studio flash, posed model shots
+- Stock catalogue imagery — generic lifestyle poses with no emotional truth
+- Lookbook photography — beautiful but no buying reason, no direct-response intent
 
 ---
 

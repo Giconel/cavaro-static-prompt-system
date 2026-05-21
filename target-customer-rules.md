@@ -70,12 +70,15 @@ Always describe the body type briefly in the prompt. Do not leave it unspecified
 - Relaxed, soft, and natural
 - A slight smile or neutral expression works
 - Avoid: big posed smiles, smoldering looks, blank model stares, or theatrical expressions
-- She can be mid-movement, mid-step, or slightly distracted — candid is good
+- She can be mid-movement, mid-step, slightly distracted, or glancing at a mirror — candid is good
+- A direct camera glance is acceptable in mirror/selfie options — it can feel natural and intimate, not posed
 
 **Pose and Movement**
 - Natural and casual — not posed
-- Walking, pausing, holding a coffee cup, looking at something slightly off camera
-- Avoid: direct camera stare with a model pose, hands-on-hips fashion poses, exaggerated movement
+- Walking, pausing, holding a coffee cup, checking a mirror, looking at something slightly off camera
+- In home or mirror options: looking at her own reflection, adjusting her outfit, about to head out
+- Avoid: hands-on-hips fashion poses, over-choreographed movement, model posture, catalogue body language
+- A self-shot or mirror-shot angle is welcome when it improves authenticity and believability
 
 ---
 

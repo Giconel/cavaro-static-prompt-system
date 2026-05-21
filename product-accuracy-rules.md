@@ -8,6 +8,40 @@ Product accuracy is more important than a beautiful image.
 
 ---
 
+## Exact Product Fidelity
+
+The system must reproduce the exact product shown in the uploaded image — not a similar version, not a restyled interpretation, not a close-enough substitute.
+
+Preserve every one of the following exactly as shown:
+
+- **Colour** — exact colour, not a more photogenic approximation
+- **Knit / fabric texture** — cable knit, ribbing, boucle, linen crinkle, woven texture, etc.
+- **Neckline / collar / turtleneck shape** — the exact neckline, including height of a turtleneck or funnel
+- **Sleeve shape** — straight, puff, flutter, balloon, dropped, wide — exactly as shown
+- **Cuff shape** — ribbed, folded, wide, tapered, raw hem
+- **Hem shape** — straight, curved, high-low, stepped, raw, ribbed
+- **Side vents or splits** — if present, they must remain visible
+- **Silhouette** — oversized, boxy, fitted, A-line, cocoon, wrap — as shown
+- **Length** — described in body terms (hip, below hip, knee, midi, ankle, full length)
+- **Proportions** — if the garment is exaggerated (very oversized, very cropped), keep that exaggeration
+- **Drop shoulder / shoulder line** — if the garment has a drop shoulder or extended shoulder, preserve it
+- **Oversized or fitted level** — do not normalize an oversized garment into a standard fit
+- **Buttons / zip / hardware** — exact count, size, colour, and placement
+- **Pattern / cable knit / ribbing / weave details** — describe precisely, do not smooth or simplify
+- **Overall garment structure** — the weight, construction, and silhouette logic of the product
+
+**The generator must not:**
+- Simplify the product into a more generic sweater, cardigan, knit, fleece, or top
+- Normalize unusual product features into conventional garment shapes
+- Smooth out a distinctive texture into a plain knit
+- Remove a high-low hem, side split, or exaggerated sleeve because it is hard to render
+- Make an oversized garment look fitted or tailored
+- Change the shoulder drop because it looks awkward in the scene
+
+If the product has a distinctive feature — exaggerated proportions, unusual hem, chunky knit, cable pattern, wide sleeve, high turtleneck — that feature must be clearly visible in the final image. Do not hide it or soften it.
+
+---
+
 ## What To Identify From The Product Photo
 
 Read the product carefully before writing any prompt. Record every visible detail.

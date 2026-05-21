@@ -58,14 +58,20 @@ Define the creative hypothesis before writing any prompts:
 Before writing any prompts, map out 5 meaningfully different approaches for the same product and angle. Each route must vary on at least three of:
 - Model age (within 35–55)
 - Model appearance and body type
-- Setting and location
-- Pose and body language
+- Setting and location — mix indoor/domestic and outdoor settings
+- Pose and body language — candid moments, not catalogue poses
 - Composition and framing
 - Emotional moment
 - Product framing (full body, three-quarter, close composition)
-- Overlay hook
+- Overlay hook (optional per option)
 
-Do not create 5 versions of the same concept. Each option should be a genuinely different visual route.
+**Include at least 1–2 domestic or candid routes per set of 5 options:**
+- Home mirror selfie (bedroom or hallway, natural window light)
+- Coffee at home (kitchen, morning light)
+- Front doorway (about to head out)
+- Quiet café seated (intimate, unhurried)
+
+Do not default to all outdoor settings. Do not create 5 versions of the same catalogue concept. Each option should be a genuinely different visual route with a clear performance hypothesis.
 
 ### Step 5 — Build 5 Complete Prompts
 For each of the 5 creative routes, write a full image generation prompt using:
@@ -149,12 +155,12 @@ Ethnicity: rotate across a realistic Australian range — Anglo-Celtic, Southern
 Across the 5 options, vary:
 - Model age band (A, B, or C — see above)
 - Body type (average, petite, fuller, taller)
-- Setting (use different settings from scene-and-setting-rules.md)
-- Pose and body language
+- Setting — mix indoor/domestic and outdoor (use different settings from scene-and-setting-rules.md)
+- Pose and body language — candid, real-life moments preferred over catalogue poses
 - Camera feel (full body vs three-quarter vs close composition)
-- Emotional moment (purposeful, relaxed, paused, mid-movement)
+- Emotional moment (purposeful, relaxed, paused, self-checking in mirror, mid-movement)
 - Product framing (full silhouette visible vs partial crop with detail emphasis)
-- Overlay hook (each option should test a different hook angle)
+- Overlay hook (optional — include when it strengthens the concept, omit when not needed)
 
 Keep consistent across all 5 options:
 - Same product — same garment, same colour, same details

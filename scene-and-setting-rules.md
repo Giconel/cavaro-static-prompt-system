@@ -10,6 +10,40 @@ The setting must feel real. It must be a place an Australian woman aged 35–55 
 
 Use these settings as your primary options. Match the setting to the angle and product type.
 
+For each set of 5 options, aim to include at least 1–2 options from the **Indoor and Domestic** group and 2–3 from the **Outdoor and Everyday** group. Do not default to all outdoor settings for every output.
+
+### Indoor and Domestic Settings
+
+These settings produce the most authentic, candid, direct-response energy. Prioritise these when the angle is comfort, warmth, ease, or everyday styling.
+
+**Home mirror — bedroom or hallway**
+- Full-length mirror, real bedroom or hallway in the background
+- Natural window light from the side, soft and flattering
+- She is checking herself before heading out — a believable, intimate moment
+- Good for: comfort angles, flattering fit, getting dressed easily, warm layering
+
+**Home interior near a window**
+- Seated or standing near a large window with natural soft light
+- Lived-in home interior — timber furniture, neutral walls, real objects in background
+- Not staged, not minimalist-showroom — a real home
+- Good for: comfort, warmth, fabric quality, relaxed morning angles
+
+**Front doorway or porch**
+- She is about to leave, pausing in her own doorway
+- Natural outdoor light from in front of her, home visible behind
+- A genuine transition moment — dressed and ready
+- Good for: easy outfit angles, everyday polish, getting dressed simply
+
+**Coffee at home — kitchen or dining area**
+- Seated or standing in her kitchen, holding a real coffee at home
+- Morning light from a window, domestic background in soft focus
+- More intimate and believable than a café scene
+- Good for: comfort, warmth, slow morning angles
+
+---
+
+### Outdoor and Everyday Settings
+
 **Inner-city café strip**
 - Footpath outside a café with outdoor seating
 - Warm stone pavement, timber chairs, coffee cups, potted plants
@@ -52,12 +86,13 @@ Match the setting to the angle using this logic:
 
 | Angle type | Suggested setting |
 |---|---|
-| Comfort and ease | Farmers market, residential street, suburb high street |
+| Comfort and warmth | Home mirror, coffee at home, home interior near window |
+| Getting dressed easily | Home mirror, front doorway, residential street |
+| Everyday polish | Café strip, front doorway, local shopping village |
 | Weekend lifestyle | Farmers market, beachside esplanade, shopping village |
-| Everyday polish | Café strip, city laneway, shopping village |
-| Getting dressed simply | Residential street, suburb high street |
 | Social and outgoing | Café strip, laneway, shopping village |
 | Relaxed and coastal | Beachside esplanade, residential street |
+| Authentic / direct-response | Home mirror, coffee at home, front doorway, quiet café seated |
 
 ---
 
@@ -101,3 +136,6 @@ The background is not decoration. It is part of the believability of the image. 
 - Tropical or overseas-looking locations
 - Overly clean or art-directed environments
 - Backgrounds that compete with the product for attention
+- Staged home interiors that look like a showroom or Airbnb shoot
+- Generic café seating that looks like stock photography
+- Any setting that reads as "lifestyle catalogue" rather than real life

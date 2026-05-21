@@ -20,8 +20,8 @@ Output should be compact: short product read, 5 ready-to-paste prompts, short re
 
 **Option 1 — [Concept Name]**
 
-Overlay hook:
-[4–6 words — written as a real line, no placeholder]
+Overlay hook (optional):
+[4–6 words — or omit if the concept is stronger without text]
 
 Ready-to-paste prompt:
 ```
