@@ -26,7 +26,7 @@ Overlay hook (optional):
 
 Ready-to-paste prompt:
 ```
-[Concise standalone prompt. Include: exact product (concise), model (age band, build, ethnicity, hair), setting, pose, lighting, 9:16 vertical 1080×1920, positive realism anchor ("authentic smartphone-photo feel" / "candid friend-shot quality" / "captured moment not staged shoot"), embedded negative instructions.]
+[Concise standalone prompt. Include: exact product (concise), model (age band, build, ethnicity, hair), setting, pose, composition note (keep garment clearly visible — neckline to hem), lighting, 9:16 vertical 1080×1920, positive realism anchor ("authentic smartphone-photo feel" / "candid friend-shot quality" / "captured moment not staged shoot"), embedded negative instructions.]
 ```
 
 ---

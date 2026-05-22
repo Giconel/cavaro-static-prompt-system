@@ -42,6 +42,35 @@ If the product has a distinctive feature — exaggerated proportions, unusual he
 
 ---
 
+## Product Visibility
+
+Product fidelity alone is not enough — the garment must also be clearly visible and readable in the final image.
+
+**The product is the hero of every static.** The viewer must be able to read the garment at a glance. If the product is blocked, cropped, or hidden, the static fails regardless of how realistic the scene is.
+
+**Visibility rules:**
+- The garment should be visible from neckline to hem whenever the composition allows
+- Neckline/collar shape, sleeve style, body width, and hem must be readable in the frame
+- Do not let props, furniture, handbags, crossed arms, or tight crops block too much of the garment
+- Mirror scenes must show the garment clearly — not just a partial or sliver reflection
+- Seated compositions are acceptable when the garment is still readable — avoid desk or table setups that block the torso
+- Props (cups, bags, phones) should appear naturally but must not cover key garment areas
+
+**Preferred framing:**
+- Medium-full: mid-thigh to head, or full body when the setting allows
+- Front-facing or slightly angled — both preserve garment readability
+- Three-quarter crop is acceptable only when it includes neckline through hem
+
+**What to avoid:**
+- Tight mid-body crops that cut off the neckline or hem
+- Seated scenes where a laptop, table, or prop hides the lower half of the garment
+- Hand or arm placement that covers a button placket, pattern, or neckline detail
+- Compositions where the scene is engaging but the garment is not readable
+
+UGC lifestyle realism and product visibility are not opposites. A candid home moment can still show the garment clearly.
+
+---
+
 ## What To Identify From The Product Photo
 
 Read the product carefully before writing any prompt. Record every visible detail.

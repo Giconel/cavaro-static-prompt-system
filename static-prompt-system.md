@@ -89,6 +89,7 @@ At least one of the 2 options should come from Priority 1. Do not default to out
 For each of the 2 selected routes, write a full image generation prompt using:
 - The product accuracy description from Step 1 (same in every prompt — do not change the garment)
 - The specific setting, model, pose, and moment for that option
+- Composition language that keeps the product clearly visible — the garment should be readable from neckline to hem; avoid props, crops, or poses that block too much of the product
 - Brand visual rules from brand-visual-rules.md
 - Target customer rules from target-customer-rules.md
 - Overlay and safe zone rules from overlay-and-safe-zone-rules.md
@@ -99,6 +100,7 @@ Embed the most important negative instructions at the end of each prompt as natu
 Include at minimum:
 - No plastic skin, no hyper-smooth AI surfaces
 - No altered garment or product changes
+- No props, crops, or arm placement that block more than half of the garment
 - No editorial model energy, no catalogue posing
 - No commercial fashion-shoot lighting, no studio lighting, no cinematic shallow depth of field used as a style choice
 - No overly symmetrical or heavily art-directed composition

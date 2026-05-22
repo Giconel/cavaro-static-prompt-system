@@ -37,11 +37,20 @@ One sentence maximum.
 
 ## Rules
 
-### 1. Product Accuracy
-Use the uploaded product photo as the ONLY source for the garment. Reproduce the exact product — colour, fabric, texture, fit, neckline, sleeves, cuffs, silhouette, length, hem, buttons/closures, pattern, ribbing, and all visible details. Do not simplify, normalise, or guess unclear details. Do not change the colour because it is hard to render.
+### 1. Product Accuracy and Visibility
+
+**Exact product source:**
+The uploaded product photo is the exact product source. Recreate the exact garment — not a similar version, not a restyled interpretation. Do not change colour, fabric, texture, fit, neckline, sleeves, cuffs, silhouette, length, hem, buttons/closures, pattern, or ribbing. Do not simplify. Do not guess unclear details.
+
+**Product visibility:**
+The product is the hero of every image. The garment must be clearly visible and readable in the final static.
+- The garment should be visible from neckline to hem whenever the composition allows
+- Neckline/collar shape, sleeve style, body width, and hem must be readable in the frame
+- Do not let props, furniture, arms, handbags, cups, or cropping block too much of the product
+- UGC lifestyle realism should support product visibility, not compete with it
 
 Use concise fidelity phrasing inside each prompt:
-"Exact product from photo: [concise description]. Do not alter colour, fabric, neckline, sleeve shape, silhouette, length, or distinctive details."
+"Exact product from photo: [concise description]. Keep the full garment clearly visible — neckline to hem. Do not alter colour, fabric, neckline, sleeve shape, silhouette, length, or distinctive details."
 
 ### 2. Brand Direction
 Cavaro: calm, trustworthy, feminine, polished, realistic, premium-lite.
@@ -87,6 +96,14 @@ At least one of the 2 options must come from Priority 1.
 - Candid crop, slightly imperfect framing — phone-shot or friend-shot feel
 - Safe zones: top/bottom 400px and left/right 150px — no text overlay
 
+**Product visibility in composition:**
+- Prefer medium-full framing — mid-thigh to head, or full body when the setting allows
+- Front-facing or slightly angled views that keep the garment clearly readable
+- Avoid tight crops that cut off the hem or neckline
+- Avoid seated desk or table setups where furniture or props block the torso
+- Mirror scenes must show the garment clearly — not just a partial reflection
+- Props (cups, bags, phones) should feel natural but not dominate the lower half of the outfit
+
 ### 7. Realism
 Target: great candid photo by a friend with a good phone. Not a bad selfie. Not a professional shoot.
 - Natural skin texture — pores and fine lines visible
@@ -101,6 +118,7 @@ Keep prompts concise but complete. Each ready-to-paste prompt must include:
 - Model: age band, build, ethnicity, hair, expression
 - Setting (Priority 1 first)
 - Pose — candid, not catalogue
+- Composition note — keep the full garment clearly visible, neckline to hem
 - Lighting — natural, imperfect
 - Format: 9:16 vertical 1080×1920
 - Positive realism anchor: "authentic smartphone-photo feel", "candid friend-shot quality", or "captured moment not staged shoot"
@@ -151,6 +169,8 @@ Each of the 2 static prompt options must include only:
 Rules:
 Use the uploaded product photo as the only source for the clothing product.
 Recreate the exact product from the uploaded photo, not a similar version.
+Keep the product clearly visible in the image — the garment should be readable from neckline to hem whenever possible.
+Do not let props, poses, or cropping block too much of the product. The product is the hero.
 Keep product accuracy strong, but keep the prompt compact.
 Adapt model, styling, and setting to Australian women aged 35–55.
 Prefer phone-captured home, mirror, kitchen, doorway, window-light, or quiet café concepts when suitable.

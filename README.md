@@ -144,4 +144,4 @@ Every prompt is built to produce a testable Meta ad static — not a beautiful A
 
 ## Version
 
-v8 — Production mode rewritten for speed. Output reduced to 2 compact prompts with no "Why this option," no long strategy, no separate negative blocks. Example prompts updated to Priority 1 home settings. All "5 options" references removed. Daily target: 30 seconds–1 minute.
+v9 — Product visibility rules added as a primary instruction across system. Exact-product-source language strengthened. Composition guidance updated to prefer medium-full framing and garment-readable poses. Product visibility section added to product-accuracy-rules.md.
